@@ -48,8 +48,8 @@ $lang = array_merge($lang, [
     # Banner 2
     'banner02_text01' => 'Erfahre wie',
     'banner02_text02' => 'man verbindet',
-    'banner02_text03' => 'mit unseren Reichen',
-    'banner02_text04' => 'klicke hier um zu lesen',
+    'banner02_text03' => 'zu unseren Realms',
+    'banner02_text04' => 'klicke hier um mehr zu erfahren',
 
     # Copyright
     'copyright' => '%s &copy; Copyright %s'
