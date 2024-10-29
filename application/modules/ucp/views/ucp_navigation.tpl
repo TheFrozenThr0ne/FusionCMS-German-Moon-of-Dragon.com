@@ -59,12 +59,7 @@
 		</div> *}
 		
 		<div class="list-group mt-3">
-			{if hasPermission('view', "status")}<a href="{$url}status" class="list-group-item list-group-item-action  {if $link_active == 'status'}active{/if}">Status</a>{/if}
-			{if hasPermission('view', "character_tools")}<a href="{$url}character_tools" class="list-group-item list-group-item-action  {if $link_active == 'character_tools'}active{/if}">Character Tools</a>{/if}
 			{if hasPermission('view', "teleport")}<a href="{$url}teleport" class="list-group-item list-group-item-action  {if $link_active == 'teleport'}active{/if}">{lang("teleport_hub", "main")}</a>{/if}
-			{if hasPermission('view', "levelup")}<a href="{$url}levelup" class="list-group-item list-group-item-action  {if $link_active == 'levelup'}active{/if}">Level Up</a>{/if}
-			{if hasPermission('view', "unstuck")}<a href="{$url}unstuck" class="list-group-item list-group-item-action  {if $link_active == 'unstuck'}active{/if}">Unstuck</a>{/if}
-			{if hasPermission('view', "restore")}<a href="{$url}restore" class="list-group-item list-group-item-action  {if $link_active == 'restore'}active{/if}">Restore</a>{/if}
 			{if hasPermission('view', "vote")}<a href="{$url}vote" class="list-group-item list-group-item-action  {if $link_active == 'vote'}active{/if}">{lang("vote", "main")}</a>{/if}
 			{if hasPermission('view', "donate")}<a href="{$url}donate" class="list-group-item list-group-item-action  {if $link_active == 'donate'}active{/if}">{lang("donate", "main")}</a>{/if}
 			{if hasPermission('view', "store")}<a href="{$url}store" class="list-group-item list-group-item-action  {if $link_active == 'store'}active{/if}">{lang("store", "main")}</a>{/if}
