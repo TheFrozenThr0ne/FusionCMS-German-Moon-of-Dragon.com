@@ -22,7 +22,6 @@
 * Swedish
 * American
 * Simplified Chinese
-* More (WIP)
 
 ## Table Of Contents
 
