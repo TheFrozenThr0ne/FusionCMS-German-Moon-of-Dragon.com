@@ -27,5 +27,5 @@
 	-->
 
 <div class="card text-center">
-	<div class="card-body border-0">set realmlist {$realmlist}</div>
+	<div class="card-body border-0">SET PORTAL {$realmlist}</div>
 </div>
