@@ -120,7 +120,7 @@ const Language = (() => {
      */
     self.init = () => {
         // Read localstorage to set user language
-        self.userLang = localStorage.getItem('language') == null ? 'de' : localStorage.getItem('language');
+        self.userLang = localStorage.getItem('language') == null ? 'en' : localStorage.getItem('language');
 
         // Load default language
         self.load(self.defaultLang);
