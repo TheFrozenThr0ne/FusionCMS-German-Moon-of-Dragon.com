@@ -16,7 +16,7 @@ env:
   MY_BRANCH: main
 
   # replace it with the path to master repo
-  MASTER_REPO: https://github.com/TheFrozenThr0ne/FusionCMS-Moon-of-Dragon.com.git
+  MASTER_REPO: https://github.com/FusionWowCMS/FusionCMS.git
 
   # replace "master" with your master branch name
   MASTER_BRANCH: main
