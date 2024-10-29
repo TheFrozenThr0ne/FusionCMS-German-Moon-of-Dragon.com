@@ -19,6 +19,7 @@
 ## Table Of additional Installer Languages
 * German
 * Swedish
+* American
 * More (WIP)
 
 ## Table Of Contents
