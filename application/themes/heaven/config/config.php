@@ -63,18 +63,18 @@ $config = [
 
         # Banner 01
         'banner_01' => [
-            'date'  => '07.09.21',
-            'link'  => base_url('page/announcement'),
-            'text'  => json_encode(['english' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE),
-            'title' => json_encode(['english' => 'Welcome to FusionCMS', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE)
+            'date'  => '26.10.24',
+            'link'  => base_url('register'),
+            'text'  => json_encode(['english' => 'Embark on an epic adventure in a world filled with magic and mystery. To unlock all the thrilling experiences we offer, please register for an account. Join us now and start your journey today.', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE),
+            'title' => json_encode(['english' => 'Welcome to our Private Server', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE)
         ],
 
         # Banner 02
         'banner_02' => [
-            'date'  => '07.09.21',
-            'link'  => base_url('page/announcement'),
-            'text'  => json_encode(['english' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE),
-            'title' => json_encode(['english' => 'Welcome to FusionCMS-8.x', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE)
+            'date'  => '26.10.24',
+            'link'  => base_url('page/realms'),
+            'text'  => json_encode(['english' => 'Learn How to Connect to our realms.', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE),
+            'title' => json_encode(['english' => 'How to Connect: Realms', 'persian' => '', 'spanish' => '', 'portuguese-brazilian' => ''], JSON_UNESCAPED_UNICODE)
         ]
     ],
 
