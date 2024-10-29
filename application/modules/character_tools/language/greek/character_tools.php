@@ -1,40 +1,37 @@
 <?php
 
 /**
- * Note to module developers:
- * 	Keeping a module specific language file like this
- *	in this external folder is not a good practise for
- *	portability - I do not advice you to do this for
- *	your own modules since they are non-default.
- *	Instead, simply put your language files in
- *	application/modules/yourModule/language/
- *	You do not need to change any code, the system
- *	will automatically look in that folder too.
+ * Σημείωση για τους προγραμματιστές modules:
+ *  Διατηρώντας ένα αρχείο γλώσσας που είναι συγκεκριμένο για ένα module
+ *  σε αυτόν τον εξωτερικό φάκελο δεν είναι καλή πρακτική για
+ *  φορητότητα - δεν σας συμβουλεύω να το κάνετε αυτό για
+ *  τα δικά σας modules, καθώς είναι μη προεπιλεγμένα.
+ *  Αντίθετα, απλά τοποθετήστε τα αρχεία γλώσσας σας στο
+ *  application/modules/yourModule/language/
+ *  Δεν χρειάζεται να αλλάξετε κανέναν κώδικα, το σύστημα
+ *  θα κοιτάξει αυτόματα και σε αυτόν τον φάκελο.
  */
 
-$lang['cant_afford'] = "You can't afford this!";
-$lang['restore'] = "Character_tools";
-$lang['relamdoesnotsupport']        = 'relam does not support this service.';
-$lang['noselectedcharacter']		            = 'There is no selected character';
-$lang['notcharacteryouraccount']		            = 'The selected character does not belong to your account.';
-$lang['unablecharactername']		            = 'The site is unable to display your character\'s name.';
-$lang['cammandnoserver']		            = 'The server is currently unavailable  ';
-$lang['notenough']		               = 'Your account balance is not enough';
-$lang['Theinputisinvalid']		            = 'The input is invalid';
-$lang['name_already_exists'] = 'This character name is available in the system, we can\'t restore it, contact the server management';
-$lang['select'] = "Select";
-$lang['selected'] = "Selected";
-$lang['cant_afford'] = "You can't afford this!";
-$lang['no_chars'] = "You have no characters";
-$lang['select_char'] = "Select character";
-$lang["name_change"]       = "Name Change";
-$lang["race_change"]       = "Race change";
-$lang["faction_change"]    = "Faction change";
-$lang["appearance_change"] = "Appearance Change";
+$lang['cant_afford'] = "Δεν μπορείτε να το αντέξετε!";
+$lang['restore'] = "Εργαλεία Χαρακτήρα";
+$lang['relamdoesnotsupport'] = 'Ο relam δεν υποστηρίζει αυτή την υπηρεσία.';
+$lang['noselectedcharacter'] = 'Δεν υπάρχει επιλεγμένος χαρακτήρας.';
+$lang['notcharacteryouraccount'] = 'Ο επιλεγμένος χαρακτήρας δεν ανήκει στον λογαριασμό σας.';
+$lang['unablecharactername'] = 'Ο ιστότοπος δεν μπορεί να εμφανίσει το όνομα του χαρακτήρα σας.';
+$lang['cammandnoserver'] = 'Ο διακομιστής είναι αυτή τη στιγμή μη διαθέσιμος.';
+$lang['notenough'] = 'Το υπόλοιπο του λογαριασμού σας δεν είναι αρκετό.';
+$lang['Theinputisinvalid'] = 'Η είσοδος είναι μη έγκυρη.';
+$lang['name_already_exists'] = 'Αυτό το όνομα χαρακτήρα είναι διαθέσιμο στο σύστημα, δεν μπορούμε να το αποκαταστήσουμε, επικοινωνήστε με τη διαχείριση του διακομιστή.';
+$lang['select'] = "Επιλέξτε";
+$lang['selected'] = "Επιλεγμένο";
+$lang['cant_afford'] = "Δεν μπορείτε να το αντέξετε!";
+$lang['no_chars'] = "Δεν έχετε χαρακτήρες.";
+$lang['select_char'] = "Επιλέξτε χαρακτήρα";
+$lang["name_change"] = "Αλλαγή ονόματος";
+$lang["race_change"] = "Αλλαγή φυλής";
+$lang["faction_change"] = "Αλλαγή φατρίας";
+$lang["appearance_change"] = "Αλλαγή εμφάνισης";
 $lang['dp'] = "DP";
-$lang['free'] = "Free";
+$lang['free'] = "Δωρεάν";
 
-
-
-
-
+?>
