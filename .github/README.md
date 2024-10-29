@@ -3,8 +3,6 @@
   <a href="https://github.com/FusionWowCMS/FusionCMS">
     <img src="https://github.com/FusionWowCMS/FusionCMS/assets/12217476/e17a9db8-30dd-41bc-b4e9-30b66b55bc4f" alt="Logo">
   </a>
-  <br/><br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/200px-Flag_of_Germany.svg.png" alt="Logo">
   
 <h3 align="center">FusionCMS</h3>
 
