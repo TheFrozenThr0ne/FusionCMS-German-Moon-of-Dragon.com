@@ -1,0 +1,26 @@
+{
+	"name": "Unban Character",
+	"version": "1.0.2",
+	"date": "2023-06-09",
+	"description": "UnBan Banned characters",
+	"author": {
+		"name": "Shayan",
+		"website": "http://www.demacian.ir"
+	},
+	
+	"permissions": {
+		"view": {"default" : true, "description": "View the Banned characters page" }
+	},
+
+	"roles": {
+		"view": {
+			"description": "View the Banned characters",
+			
+			"permissions": {
+				"view": true
+			}
+		}
+	},
+
+	"enabled": true
+}
