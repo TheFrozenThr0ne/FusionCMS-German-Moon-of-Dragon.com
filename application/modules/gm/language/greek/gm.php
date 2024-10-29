@@ -1,0 +1,56 @@
+<?php
+
+$lang['invalid'] = "Μη έγκυρες τιμές";
+$lang['message_too_long'] = "Το μήνυμα είναι πολύ μεγάλο. Πρέπει να είναι κάτω από 8000 χαρακτήρες.";
+$lang['kick'] = "Αποβολή παίκτη";
+$lang['ban'] = "Απαγόρευση λογαριασμού";
+$lang['ticket'] = "Εισιτήριο";
+$lang['time'] = "Χρόνος";
+$lang['message'] = "Μήνυμα";
+$lang['by'] = "από";
+$lang['view'] = "Προβολή";
+$lang['hide'] = "Απόκρυψη";
+$lang['close'] = "Κλείσιμο εισιτηρίου";
+$lang['answer'] = "Απάντηση";
+$lang['unstuck'] = "Απελευθέρωση";
+$lang['send_item'] = "Αποστολή αντικειμένου";
+$lang['no_tickets'] = "Δεν υπάρχουν εισιτήρια";
+$lang['account_name'] = "Όνομα λογαριασμού";
+$lang['ban_reason'] = "Λόγος απαγόρευσης";
+$lang['account'] = "Λογαριασμός";
+$lang['has_been_banned'] = "έχει απαγορευθεί";
+$lang['character_name'] = "Όνομα χαρακτήρα";
+$lang['character_has_been_kicked'] = "Ο χαρακτήρας έχει αποβληθεί";
+$lang['close_ticket'] = "Είστε σίγουροι ότι θέλετε να κλείσετε αυτό το εισιτήριο;";
+$lang['close_short'] = "Κλείσιμο";
+$lang['ban_short'] = "Απαγόρευση";
+$lang['kick_short'] = "Αποβολή";
+$lang['send'] = "Αποστολή";
+$lang['mail_sent'] = "Το μήνυμα έχει σταλεί";
+$lang['teleported'] = "Ο χαρακτήρας έχει τηλεμεταφερθεί";
+$lang['must_be_offline'] = "Ο χαρακτήρας πρέπει να είναι εκτός σύνδεσης";
+$lang['item_sent'] = "Το αντικείμενο έχει σταλεί";
+
+$lang['table_command_rank'] = "Βαθμός";
+$lang['table_command'] = "Εντολή";
+$lang['table_help'] = "Βοήθεια";
+
+$lang['ticket_list'] = "Λίστα εισιτηρίων";
+$lang['ban_list'] = "Λίστα απαγορεύσεων";
+$lang['history_list'] = "Ιστορικό";
+$lang['banned_account_list'] = "Λίστα απαγορευμένων λογαριασμών";
+$lang['banned_ip_list'] = "Λίστα απαγορευμένων IP";
+$lang['gm_panel'] = "Πάνελ GM";
+$lang['banned_account_list_active'] = "Ενεργοί απαγορευμένοι λογαριασμοί";
+$lang['banned_account_list_expired'] = "Λήξαντες απαγορευμένοι λογαριασμοί";
+$lang['ip'] = "IP";
+$lang['ban_ip'] = "Απαγόρευση IP";
+$lang['no_data'] = "Δεν υπάρχουν δεδομένα";
+$lang['day'] = "Ημέρα";
+$lang['gm'] = "GM";
+$lang['action'] = "Δράση";
+$lang['type'] = "Τύπος";
+$lang['affected'] = "Επηρεασμένο";
+$lang['banned_at'] = "Απαγορεύθηκε στις";
+$lang['unbanned_at'] = "Απαγόρευση ανενεργή στις";
+$lang['banned_by'] = "Απαγόρευσε ο";

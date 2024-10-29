@@ -1,0 +1,37 @@
+<?php
+
+$lang['recipient'] = "Παραλήπτης";
+$lang['search'] = "Αναζητήστε έναν χρήστη...";
+$lang['send'] = "Στείλτε ιδιωτικό μήνυμα";
+$lang['hi_there'] = "Γειά σου!";
+$lang['compose'] = "Σύνταξη";
+$lang['messages'] = "Μηνύματα";
+$lang['title'] = "Τίτλος";
+$lang['message_limit'] = "Το μήνυμα πρέπει να είναι μεγαλύτερο από 3 χαρακτήρες!";
+$lang['title_limit'] = "Ο τίτλος πρέπει να είναι μεταξύ 1-50 χαρακτήρων";
+$lang['recipient_empty'] = "Ο παραλήπτης δεν μπορεί να είναι κενός!";
+$lang['invalid_recipient'] = "Άκυρος παραλήπτης";
+$lang['sent'] = "Το μήνυμα έχει σταλεί! Ανακατευθύνεστε πίσω στο";
+$lang['the_inbox'] = "ειδικό σας φάκελο";
+$lang['error'] = "Κάτι πήγε στραβά, παρακαλώ προσπαθήστε ξανά!";
+$lang['title_cant_be_empty'] = "Ο τίτλος δεν μπορεί να είναι κενός!";
+$lang['pm'] = "Ιδιωτικά μηνύματα";
+$lang['newer'] = "Νέα μηνύματα";
+$lang['older'] = "Παλαιότερα μηνύματα";
+$lang['deleting'] = "Διαγραφή";
+$lang['inbox'] = "Εισερχόμενα";
+$lang['sent_messages'] = "Απεσταλμένα";
+$lang['no_messages'] = "Δεν έχετε μηνύματα";
+$lang['compose_message'] = "Συντάξτε ένα μήνυμα";
+$lang['empty_inbox'] = "Κενό εισερχομένων";
+$lang['sender'] = "Αποστολέας";
+$lang['message_title'] = "Τίτλος μηνύματος";
+$lang['date'] = "Ημερομηνία";
+$lang['view_profile'] = "Προβολή προφίλ";
+$lang['read_message'] = "Διαβάστε το μήνυμα";
+$lang['receiver'] = "Παραλήπτης";
+$lang['conversation_between'] = "Συνομιλία μεταξύ εσάς";
+$lang['you'] = "Εσείς";
+$lang['not_found'] = "Το μήνυμα δεν βρέθηκε";
+$lang['enter_recipient'] = "Παρακαλώ εισάγετε έναν παραλήπτη";
+$lang['enter_message'] = "Παρακαλώ εισάγετε ένα μήνυμα";
