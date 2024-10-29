@@ -1,0 +1,37 @@
+<?php
+
+$lang['recipient'] = "Destinatario";
+$lang['search'] = "Buscar un usuario...";
+$lang['send'] = "Enviar mensaje privado";
+$lang['hi_there'] = "¡Hola!";
+$lang['compose'] = "Componer";
+$lang['messages'] = "Mensajes";
+$lang['title'] = "Título";
+$lang['message_limit'] = "¡El mensaje debe tener más de 3 caracteres!";
+$lang['title_limit'] = "El título debe tener entre 1 y 50 caracteres";
+$lang['recipient_empty'] = "¡El destinatario no puede estar vacío!";
+$lang['invalid_recipient'] = "Destinatario inválido";
+$lang['sent'] = "¡Mensaje enviado! Estás siendo redirigido de vuelta a";
+$lang['the_inbox'] = "la bandeja de entrada";
+$lang['error'] = "¡Algo salió mal, por favor intenta nuevamente!";
+$lang['title_cant_be_empty'] = "¡El título no puede estar vacío!";
+$lang['pm'] = "Mensajes privados";
+$lang['newer'] = "Mensajes más nuevos";
+$lang['older'] = "Mensajes más antiguos";
+$lang['deleting'] = "Eliminando";
+$lang['inbox'] = "Bandeja de entrada";
+$lang['sent_messages'] = "Enviados";
+$lang['no_messages'] = "No tienes mensajes";
+$lang['compose_message'] = "Componer un mensaje";
+$lang['empty_inbox'] = "Bandeja de entrada vacía";
+$lang['sender'] = "Remitente";
+$lang['message_title'] = "Título del mensaje";
+$lang['date'] = "Fecha";
+$lang['view_profile'] = "Ver perfil";
+$lang['read_message'] = "Leer mensaje";
+$lang['receiver'] = "Receptor";
+$lang['conversation_between'] = "Conversación entre tú";
+$lang['you'] = "Tú";
+$lang['not_found'] = "Mensaje no encontrado";
+$lang['enter_recipient'] = "Por favor, ingresa un destinatario";
+$lang['enter_message'] = "Por favor, ingresa un mensaje";

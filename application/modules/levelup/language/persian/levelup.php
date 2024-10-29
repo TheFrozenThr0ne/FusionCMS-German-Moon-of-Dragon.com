@@ -17,7 +17,8 @@ $lang['no_realm_selected'] = "لطفا یک قلمرو انتخاب کنید";
 $lang['want_to_buy'] = "آیا می خواهید خریدی انجام دهید؟";
 $lang['processing'] = "در حال پردازش...";
 $lang['purchase'] = "خرید";
-$lang['char_levelup'] = "لول آپ کاراکتر";
+
+
 $lang['not_support'] = "قلمرو آن سرویس را پشتیبانی نمی کند.";
 $lang['character_does_not_exist'] = "کاراکتر انتخاب شده وجود ندارد." ;
 $lang['character_does_not_belong_account'] = "کاراکتر انتخاب شده به حساب شما تعلق ندارد." ;
@@ -27,3 +28,5 @@ $lang['no_camamand'] = "قلمرو آن سرویس را پشتیبانی نمی 
 $lang['dont_enough_Donation_Points'] = "شما امتیاز کافی برای اهدا ندارید." ;
 $lang['no_service'] = "سرویس انتخابی نامعتبر است.";
 $lang['no_selected_service'] = "مشکلی پیش آمد، لطفا دوباره امتحان کنید." ;
+
+$lang['not_authorized'] = "شما اجازه این کار نیستید.";

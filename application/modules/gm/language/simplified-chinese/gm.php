@@ -1,0 +1,56 @@
+<?php
+
+$lang['invalid'] = "无效值";
+$lang['message_too_long'] = "消息过长。必须少于8000个字符。";
+$lang['kick'] = "踢出玩家";
+$lang['ban'] = "禁用账户";
+$lang['ticket'] = "票据";
+$lang['time'] = "时间";
+$lang['message'] = "消息";
+$lang['by'] = "由";
+$lang['view'] = "查看";
+$lang['hide'] = "隐藏";
+$lang['close'] = "关闭票据";
+$lang['answer'] = "回答";
+$lang['unstuck'] = "解除卡住";
+$lang['send_item'] = "发送物品";
+$lang['no_tickets'] = "没有票据";
+$lang['account_name'] = "账户名称";
+$lang['ban_reason'] = "禁用理由";
+$lang['account'] = "账户";
+$lang['has_been_banned'] = "已被禁用";
+$lang['character_name'] = "角色名称";
+$lang['character_has_been_kicked'] = "角色已被踢出";
+$lang['close_ticket'] = "您确定要关闭此票据吗？";
+$lang['close_short'] = "关闭";
+$lang['ban_short'] = "禁用";
+$lang['kick_short'] = "踢出";
+$lang['send'] = "发送";
+$lang['mail_sent'] = "邮件已发送";
+$lang['teleported'] = "角色已被传送";
+$lang['must_be_offline'] = "角色必须离线";
+$lang['item_sent'] = "物品已发送";
+
+$lang['table_command_rank'] = "排名";
+$lang['table_command'] = "指令";
+$lang['table_help'] = "帮助";
+
+$lang['ticket_list'] = "票据列表";
+$lang['ban_list'] = "禁用列表";
+$lang['history_list'] = "历史记录";
+$lang['banned_account_list'] = "被禁用账户列表";
+$lang['banned_ip_list'] = "被禁用IP列表";
+$lang['gm_panel'] = "GM面板";
+$lang['banned_account_list_active'] = "已禁用账户（有效）";
+$lang['banned_account_list_expired'] = "已禁用账户（过期）";
+$lang['ip'] = "IP";
+$lang['ban_ip'] = "禁用IP";
+$lang['no_data'] = "没有数据";
+$lang['day'] = "天";
+$lang['gm'] = "GM";
+$lang['action'] = "操作";
+$lang['type'] = "类型";
+$lang['affected'] = "受影响";
+$lang['banned_at'] = "禁用时间";
+$lang['unbanned_at'] = "解禁时间";
+$lang['banned_by'] = "禁用者";
