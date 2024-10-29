@@ -3,8 +3,6 @@
   <a href="https://github.com/FusionWowCMS/FusionCMS">
     <img src="https://github.com/FusionWowCMS/FusionCMS/assets/12217476/e17a9db8-30dd-41bc-b4e9-30b66b55bc4f" alt="Logo">
   </a>
-  <br/><br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/200px-Flag_of_Germany.svg.png" alt="Logo">
   
 <h3 align="center">FusionCMS</h3>
 
@@ -17,6 +15,11 @@
 </p>
 
 [![Downloads](https://img.shields.io/github/downloads/FusionWowCMS/FusionCMS/total)](https://github.com/FusionWowCMS/FusionCMS/releases "Releases") ![Contributors](https://img.shields.io/github/contributors/FusionWowCMS/FusionCMS?color=dark-green) ![Issues](https://img.shields.io/github/issues/FusionWowCMS/FusionCMS) [![Discord](https://img.shields.io/discord/1116706973828775976.svg)](https://discord.gg/tnWTkZ7akZ "Our community hub on Discord") [![CodeFactor](https://www.codefactor.io/repository/github/fusionwowcms/fusioncms/badge/main)](https://www.codefactor.io/repository/github/fusionwowcms/fusioncms/overview/main)
+
+## Table Of additional Installer Languages
+* German
+* Swedish
+* More (WIP)
 
 ## Table Of Contents
 
