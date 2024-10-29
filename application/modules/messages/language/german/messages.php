@@ -1,0 +1,37 @@
+<?php
+
+$lang['recipient'] = "Empfänger";
+$lang['search'] = "Nach einem Benutzer suchen...";
+$lang['send'] = "Private Nachricht senden";
+$lang['hi_there'] = "Hallo!";
+$lang['compose'] = "Verfassen";
+$lang['messages'] = "Nachrichten";
+$lang['title'] = "Titel";
+$lang['message_limit'] = "Die Nachricht muss länger als 3 Zeichen sein!";
+$lang['title_limit'] = "Der Titel muss zwischen 1-50 Zeichen lang sein";
+$lang['recipient_empty'] = "Empfänger darf nicht leer sein!";
+$lang['invalid_recipient'] = "Ungültiger Empfänger";
+$lang['sent'] = "Nachricht wurde gesendet! Sie werden zurückgeleitet zu";
+$lang['the_inbox'] = "dem Posteingang";
+$lang['error'] = "Etwas ist schiefgegangen, bitte versuchen Sie es erneut!";
+$lang['title_cant_be_empty'] = "Titel darf nicht leer sein!";
+$lang['pm'] = "Private Nachrichten";
+$lang['newer'] = "Neuere Nachrichten";
+$lang['older'] = "Ältere Nachrichten";
+$lang['deleting'] = "Löschen";
+$lang['inbox'] = "Posteingang";
+$lang['sent_messages'] = "Gesendete Nachrichten";
+$lang['no_messages'] = "Sie haben keine Nachrichten";
+$lang['compose_message'] = "Eine Nachricht verfassen";
+$lang['empty_inbox'] = "Leerer Posteingang";
+$lang['sender'] = "Absender";
+$lang['message_title'] = "Nachrichtentitel";
+$lang['date'] = "Datum";
+$lang['view_profile'] = "Profil anzeigen";
+$lang['read_message'] = "Nachricht lesen";
+$lang['receiver'] = "Empfänger";
+$lang['conversation_between'] = "Unterhaltung zwischen dir";
+$lang['you'] = "Du";
+$lang['not_found'] = "Nachricht nicht gefunden";
+$lang['enter_recipient'] = "Bitte einen Empfänger eingeben";
+$lang['enter_message'] = "Bitte eine Nachricht eingeben";
