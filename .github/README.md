@@ -18,6 +18,7 @@
 
 ## Table Of additional Installer Languages
 * German
+* Greek
 * Swedish
 * American
 * Simplified Chinese
