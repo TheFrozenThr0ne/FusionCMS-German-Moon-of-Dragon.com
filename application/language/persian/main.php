@@ -14,7 +14,7 @@
 $lang['abbreviation'] = "ir";
 
 // User panel abbreviation
-$lang['ucp'] = "UCP";
+$lang['ucp'] = "پنل کاربری";
 
 /**
  * ====================================
