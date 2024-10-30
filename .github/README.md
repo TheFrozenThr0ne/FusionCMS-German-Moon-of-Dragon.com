@@ -136,4 +136,6 @@ Dieses Projekt existiert dank::
 
 <a href="https://discord.gg/tnWTkZ7akZ">
     <img src="https://discord.com/api/guilds/1116706973828775976/widget.png?style=banner2" alt="Discord">
+</a> <a href="http://discord.gamerscentral.de/">
+    <img src="https://discord.com/api/guilds/213752188411969547/widget.png?style=banner2" alt="Discord">
 </a>
