@@ -43,6 +43,7 @@ $lang = array_merge($lang, [
 
     # دکمه‌های کاربر
     'account'  => 'حساب',
+	'messages'  => 'پیام‌ها',
     'register' => 'ثبت‌نام',
 
     # بنر 1

@@ -14,16 +14,16 @@ $lang['isRTL'] = 0;
  * -----------------------------------------------------------
  */
 $lang = array_merge($lang, [
-    'global_or'          => 'or',
-    'global_icon'        => 'Icon',
-    'global_okay'        => 'Okay',
-    'global_accept'      => 'Accept',
-    'global_reject'      => 'Reject',
-    'global_cancel'      => 'Cancel',
-    'global_online'      => 'Online',
-    'global_offline'     => 'Offline',
-    'global_loading'     => 'Loading...',
-    'global_user_avatar' => '%s\'s Avatar'
+    'global_or'          => 'veya',
+    'global_icon'        => 'Simge',
+    'global_okay'        => 'Tamam',
+    'global_accept'      => 'Kabul Et',
+    'global_reject'      => 'Reddet',
+    'global_cancel'      => 'İptal Et',
+    'global_online'      => 'Çevrimiçi',
+    'global_offline'     => 'Çevrimdışı',
+    'global_loading'     => 'Yükleniyor...',
+    'global_user_avatar' => '%s\'nin Avatarı'
 ]);
 
 /**
@@ -32,26 +32,26 @@ $lang = array_merge($lang, [
  */
 $lang = array_merge($lang, [
     # Logo
-    'logo' => 'Welcome to %s',
+    'logo' => '%s\'ye Hoş Geldiniz',
 
     # Menu
-    'nav' => 'Navigation',
+    'nav' => 'Navigasyon',
 
     # User buttons
-    'account'  => 'Account',
-	'messages'  => 'Messages',
-    'register' => 'Register',
+    'account'  => 'Hesap',
+    'messages'  => 'Mesajlar',
+    'register' => 'Kaydol',
 
     # Banner 1
-    'banner01_text01' => 'Welcome to %s',
+    'banner01_text01' => '%s\'ye Hoş Geldiniz',
     'banner01_text02' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
 
     # Banner 2
-    'banner02_text01' => 'Learn how',
-    'banner02_text02' => 'to connect',
-    'banner02_text03' => 'to our realms',
-    'banner02_text04' => 'click to read',
+    'banner02_text01' => 'Nasıl öğrenilir',
+    'banner02_text02' => 'bağlanmak',
+    'banner02_text03' => 'ülkelerimize',
+    'banner02_text04' => 'okumak için tıklayın',
 
     # Copyright
-    'copyright' => '%s &copy; Copyright %s'
+    'copyright' => '%s &copy; Telif Hakkı %s'
 ]);
