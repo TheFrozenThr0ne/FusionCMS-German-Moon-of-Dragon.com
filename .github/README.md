@@ -20,6 +20,7 @@
 * German
 * Greek
 * Swedish
+* Turkish
 * American
 * Simplified Chinese
 
