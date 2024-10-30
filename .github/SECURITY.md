@@ -1,33 +1,30 @@
 # Security Tips
-1- Make sure to enable captcha. It is an important thing to prevent bot attacks on your site.
+1- Stellen Sie sicher, dass Sie CAPTCHA aktivieren. Es ist wichtig, um Bot-Angriffe auf Ihre Website zu verhindern.
 
-2- If the site and server are both on the same server, use two separate database accounts to connect the host to the server. One account that only has access to the auth, characters and world databases and only has permission to access SELECT, DELETE, INSERT and UPDATE queries.
-also if the site is on another host, they only need to enter the IP address in host section, but many people put *, which makes every ip able to connect to database otherwise enter localhost.
+2- Wenn die Website und der Server sich auf demselben Server befinden, verwenden Sie zwei separate Datenbankkonten, um die Verbindung zum Host und zum Server herzustellen. Ein Konto sollte nur Zugriff auf die Auth-, Charakter- und Welt-Datenbanken haben und nur Berechtigungen für die Abfragen SELECT, DELETE, INSERT und UPDATE besitzen. Wenn die Website sich auf einem anderen Host befindet, müssen Sie nur die IP-Adresse im Hostfeld eingeben. Viele Menschen geben jedoch *, was bedeutet, dass jede IP-Adresse auf die Datenbank zugreifen kann; andernfalls geben Sie localhost ein.
 
 ![Screenshot 2023-12-14 121152](https://github.com/FusionWowCMS/FusionCMS/assets/12217476/e6379669-ba1c-4453-9594-d4d567293a00)
 
 
-3- We also need another account for the website database that only has access to that database and we can and should give it permission to access the queries in the image below:
+3- Wir benötigen auch ein weiteres Konto für die Website-Datenbank, das nur Zugriff auf diese Datenbank hat, und wir können und sollten ihm die Berechtigung geben, auf die Abfragen im Bild unten zuzugreifen:
 
 ![Screenshot 2023-12-14 121153](https://github.com/FusionWowCMS/FusionCMS/assets/12217476/4e962983-8f71-4db8-b0b9-20c1faed6f20)
 
-4- Use strong passwords to create the database and do not give these passwords to anyone.
+4- Verwenden Sie starke Passwörter zur Erstellung der Datenbank und geben Sie diese Passwörter an niemanden weiter.
 
-5- Do not allow anyone access to your website files or access to your host because he can access the file or database where the information of all databases is stored.
+5- Erlauben Sie niemandem den Zugriff auf Ihre Website-Dateien oder auf Ihren Host, da er auf die Datei oder die Datenbank zugreifen kann, in der die Informationen aller Datenbanken gespeichert sind.
 
-6- Create a separate account from owner account with a strong password for console account of each realm.
+6- Erstellen Sie ein separates Konto vom Eigentümerkonto mit einem starken Passwort für das Konsolenkonto jedes Realms.
 
-7- Force GM accounts except Console Account to use Two-step login.
+7- Zwingen Sie GM-Konten, mit Ausnahme des Konsolenkontos, zur Verwendung der Zwei-Faktor-Authentifizierung.
 
-# Security Policy
-We attach great importance to the security of our users data, but we are humans and not infallible.
-That's why we rely on you, the open source contributors, to inform us about actual and possible security vulnerabilities.
-Please follow the guideline below to get in touch with us, even if you're not sure, if your issue is regarding the data security.
+# Sicherheitspolitik
+Wir legen großen Wert auf die Sicherheit der Daten unserer Nutzer, aber wir sind Menschen und nicht unfehlbar. Deshalb verlassen wir uns auf Sie, die Open-Source-Beitragsleister, um uns über aktuelle und mögliche Sicherheitsanfälligkeiten zu informieren. Bitte folgen Sie den untenstehenden Richtlinien, um mit uns in Kontakt zu treten, auch wenn Sie sich nicht sicher sind, ob Ihr Anliegen die Datensicherheit betrifft.
 
-## Reporting a Vulnerability
-**Please do not open GitHub issues for security vulnerabilities, as GitHub issues are publicly accessible!**
+## Melden einer Sicherheitsanfälligkeit
+**Bitte öffnen Sie keine GitHub-Issues für Sicherheitsanfälligkeiten, da GitHub-Issues öffentlich zugänglich sind!**
 
-Instead, contact us per Discord [Nightprince](https://discordapp.com/users/408541006238187530) or join our Discord server [https://discord.gg/5nSt9puU4V](https://discord.gg/tnWTkZ7akZ).
-We guarantee a response within two workdays and a security patch as fast as possible.
+Stattdessen kontaktieren Sie uns über Discord [Nightprince](https://discordapp.com/users/408541006238187530) oder treten Sie unserem Discord-Server bei [https://discord.gg/5nSt9puU4V](https://discord.gg/tnWTkZ7akZ).
+Wir garantieren eine Antwort innerhalb von zwei Werktagen und ein Sicherheitsupdate so schnell wie möglich.
 
-Thanks for your cooperation and your understanding.
+Danke für Ihre Kooperation und Ihr Verständnis.
