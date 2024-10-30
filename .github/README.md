@@ -27,13 +27,13 @@
 
 ## Inhaltsverzeichnis
 
-* [Über das Projekt](#about-the-project)
-* [Erste Schritte](#getting-started)
-    * [Voraussetzungen](#prerequisites)
-    * [Sicherheitstipps](#security-tips)
+* [Über das Projekt](#über-das-projekt)
+* [Erste Schritte](#erste-schritte)
+    * [Voraussetzungen](#voraussetzungen)
+    * [Sicherheitstipps](#sicherheitstipps)
 * [Mitwirken](#mitwirken)
-* [Lizenz](#license)
-* [Autoren](#authors)
+* [Lizenz](#lizenz)
+* [Autoren](#autoren)
 
 ## Über das Projekt
 
