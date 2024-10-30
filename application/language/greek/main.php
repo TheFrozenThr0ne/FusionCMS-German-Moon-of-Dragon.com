@@ -53,6 +53,7 @@ $lang['donation_points'] = "Σημεία δωρεάς";
 $lang['change_avatar'] = "Αλλαγή avatar";
 
 // Ναυσιπλοΐα UCP
+$lang['messages'] = "Μηνύματα";
 $lang['vote'] = "Ψηφίστε";
 $lang['donate'] = "Δωρεά";
 $lang['store'] = "Κατάστημα";

@@ -43,7 +43,6 @@ $lang = array_merge($lang, [
 
     # 用户按钮
     'account'  => '账户',
-	'messages'  => '消息',
     'register' => '注册',
 
     # 横幅 1

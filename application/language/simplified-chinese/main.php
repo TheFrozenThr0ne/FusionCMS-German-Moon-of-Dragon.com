@@ -53,6 +53,7 @@ $lang['donation_points'] = "捐赠点数";
 $lang['change_avatar'] = "更改头像";
 
 // 用户中心导航
+$lang['messages'] = "消息";
 $lang['vote'] = "投票";
 $lang['donate'] = "捐赠";
 $lang['store'] = "商店";

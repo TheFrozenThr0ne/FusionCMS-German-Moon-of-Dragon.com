@@ -39,7 +39,6 @@ $lang = array_merge($lang, [
 
     # User buttons
     'account'  => 'Account',
-	'messages'  => 'Messages',
     'register' => 'Register',
 
     # Banner 1

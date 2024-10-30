@@ -39,7 +39,6 @@ $lang = array_merge($lang, [
 
     # User buttons
     'account'  => 'Hesap',
-    'messages'  => 'Mesajlar',
     'register' => 'Kaydol',
 
     # Banner 1

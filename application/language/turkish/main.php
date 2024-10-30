@@ -53,6 +53,7 @@ $lang['donation_points'] = "Bağış puanları";
 $lang['change_avatar'] = "Avatarı değiştir";
 
 // UCP menüsü
+$lang['messages'] = "Mesajlar";
 $lang['vote'] = "Oy ver";
 $lang['donate'] = "Bağış yap";
 $lang['store'] = "Dükkan";

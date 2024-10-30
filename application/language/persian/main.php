@@ -55,6 +55,7 @@ $lang['donation_points'] = "امتیازات اهدایی";
 $lang['change_avatar'] = "تغییر آواتار";
 
 // UCP nav
+$lang['messages'] = "پیام‌ها";
 $lang['vote'] = "رای دهید";
 $lang['donate'] = "اهدا کنید";
 $lang['store'] = "فروشگاه";

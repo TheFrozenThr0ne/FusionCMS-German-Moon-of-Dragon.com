@@ -53,6 +53,7 @@ $lang['donation_points'] = "Donation points";
 $lang['change_avatar'] = "Change avatar";
 
 // UCP nav
+$lang['messages'] = "Messages";
 $lang['vote'] = "Vote";
 $lang['donate'] = "Donate";
 $lang['store'] = "Store";

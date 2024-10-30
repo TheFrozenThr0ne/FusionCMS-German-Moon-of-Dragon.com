@@ -14,8 +14,6 @@
 {capture assign=user_dropdown}
 	<ul class="dropdown-menu">
 		{if $CI->user->isOnline()}
-			<li><a href="{$url}messages" class="dropdown-item" title="{lang('messages', 'main')}">{lang('messages', 'main')}</a></li>
-			<li><a href="{$url}status" class="dropdown-item" title="Status">Status</a></li>
 			<li><a href="{$url}ucp" class="dropdown-item" title="{lang('account', 'main')}">{lang('account', 'main')}</a></li>
 			<li><a href="{$url}logout" class="dropdown-item" title="{lang('logout', 'main')}">{lang('logout', 'main')}</a></li>
 		{else}

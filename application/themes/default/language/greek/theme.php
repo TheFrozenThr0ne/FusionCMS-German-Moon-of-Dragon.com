@@ -39,7 +39,6 @@ $lang = array_merge($lang, [
 
     # User buttons
     'account'  => 'Λογαριασμός',
-    'messages'  => 'Μηνύματα',
     'register' => 'Εγγραφή',
 
     # Banner 1

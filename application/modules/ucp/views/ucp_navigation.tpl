@@ -60,6 +60,7 @@
 		
 		<div class="list-group mt-3">
 			{if hasPermission('view', "status")}<a href="{$url}status" class="list-group-item list-group-item-action  {if $link_active == 'status'}active{/if}">Status</a>{/if}
+			{if hasPermission('view', "messages")}<a href="{$url}messages" class="list-group-item list-group-item-action  {if $link_active == 'messages'}active{/if}">{lang("messages", "main")}</a>{/if}
 			{if hasPermission('view', "character_tools")}<a href="{$url}character_tools" class="list-group-item list-group-item-action  {if $link_active == 'character_tools'}active{/if}">Character Tools</a>{/if}
 			{if hasPermission('view', "teleport")}<a href="{$url}teleport" class="list-group-item list-group-item-action  {if $link_active == 'teleport'}active{/if}">{lang("teleport_hub", "main")}</a>{/if}
 			{if hasPermission('view', "levelup")}<a href="{$url}levelup" class="list-group-item list-group-item-action  {if $link_active == 'levelup'}active{/if}">Level Up</a>{/if}
