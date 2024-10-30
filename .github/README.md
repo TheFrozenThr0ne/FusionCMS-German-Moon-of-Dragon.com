@@ -17,13 +17,13 @@
 [![Downloads](https://img.shields.io/github/downloads/FusionWowCMS/FusionCMS/total)](https://github.com/FusionWowCMS/FusionCMS/releases "Releases") ![Contributors](https://img.shields.io/github/contributors/FusionWowCMS/FusionCMS?color=dark-green) ![Issues](https://img.shields.io/github/issues/FusionWowCMS/FusionCMS) [![Discord](https://img.shields.io/discord/1116706973828775976.svg)](https://discord.gg/tnWTkZ7akZ "Our community hub on Discord") [![CodeFactor](https://www.codefactor.io/repository/github/fusionwowcms/fusioncms/badge/main)](https://www.codefactor.io/repository/github/fusionwowcms/fusioncms/overview/main)
 
 ## Zusätzliche Sprachoptionen
-* Amerikanisch
-* Deutsch
-* Griechisch
-* Vereinfachtes Chinesisch
-* Spanisch
-* Schwedisch
-* Türkisch
+* Amerikanisch <img src="https://github.com/user-attachments/assets/afdbd410-e55f-47f1-8029-5ffa16b3f9b8" alt="Us">
+* Deutsch <img src="https://github.com/user-attachments/assets/b1ed3bb4-f4cb-4ff3-8b4b-99b3c02362ea" alt="De">
+* Griechisch <img src="https://github.com/user-attachments/assets/6a61ca7c-fd94-4f1f-adbf-07117075bfeb" alt="Gr">
+* Vereinfachtes Chinesisch <img src="https://github.com/user-attachments/assets/f0542992-4129-4d7b-aed7-c23d84e1cde2" alt="Cn">
+* Spanisch <img src="https://github.com/user-attachments/assets/e3da29b8-c42e-4966-ae60-58a57a0f3ad0" alt="Es">
+* Schwedisch <img src="https://github.com/user-attachments/assets/fb0b8d52-3aa2-4066-a47e-a6d226412a99" alt="Se">
+* Türkisch <img src="https://github.com/user-attachments/assets/f270fc9f-62f6-4d59-b136-9a980eee039f" alt="Tr">
 
 ## Inhaltsverzeichnis
 
