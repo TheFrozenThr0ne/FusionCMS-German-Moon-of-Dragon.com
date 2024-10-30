@@ -33,7 +33,7 @@
     * [Sicherheitstipps](#sicherheitstipps)
 * [Mitwirken](#mitwirken)
 * [Lizenz](#lizenz)
-* [Autoren](#autoren)
+* [Autoren](#autoren-mitwirkende)
 
 ## Über das Projekt
 
