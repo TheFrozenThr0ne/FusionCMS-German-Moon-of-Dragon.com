@@ -12,11 +12,11 @@
  *  sucht automatisch auch in diesem Ordner.
  */
 
-$lang['there_are'] = "Es gibt";
+$lang['there_are'] = "Es sind";
 $lang['there_is'] = "Es gibt";
 $lang['guest'] = "Gast";
 $lang['guests'] = "Gäste";
 $lang['visitor'] = "Besucher";
-$lang['visitors'] = "Besucher";
+$lang['visitors'] = "Besucherinnen";
 $lang['online'] = "online";
 $lang['who'] = "wer?";
