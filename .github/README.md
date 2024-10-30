@@ -77,7 +77,7 @@ FusionCMS ist ein kostenloses, Open-Source-Inhaltsverwaltungssystem. Serverbesit
 
 ### Download
 
-[Neueste Version](https://github.com/FusionWowCMS/FusionCMS/releases/latest)
+[Neueste Version](https://github.com/TheFrozenThr0ne/FusionCMS-Moon-of-Dragon.com/archive/refs/heads/main.zip)
 
 ### Installation
 Lies den [Installationsleitfaden](https://github.com/FusionWowCMS/FusionCMS/wiki/Installation-Guide).
