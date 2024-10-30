@@ -31,7 +31,7 @@
 * [Erste Schritte](#getting-started)
     * [Voraussetzungen](#prerequisites)
     * [Sicherheitstipps](#security-tips)
-* [Mitwirken](#contributing)
+* [Mitwirken](#mitwirken)
 * [Lizenz](#license)
 * [Autoren](#authors)
 
