@@ -17,6 +17,6 @@ $lang['there_is'] = "Es gibt";
 $lang['guest'] = "Gast";
 $lang['guests'] = "Gäste";
 $lang['visitor'] = "Besucher";
-$lang['visitors'] = "Besucherinnen";
+$lang['visitors'] = "Besucher";
 $lang['online'] = "online";
 $lang['who'] = "wer?";
