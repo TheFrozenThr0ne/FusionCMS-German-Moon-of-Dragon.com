@@ -1,0 +1,37 @@
+<?php
+
+$lang['recipient'] = "Alıcı";
+$lang['search'] = "Bir kullanıcı arayın...";
+$lang['send'] = "Özel mesaj gönder";
+$lang['hi_there'] = "Merhaba!";
+$lang['compose'] = "Yaz";
+$lang['messages'] = "Mesajlar";
+$lang['title'] = "Başlık";
+$lang['message_limit'] = "Mesaj 3 karakterden uzun olmalı!";
+$lang['title_limit'] = "Başlık 1-50 karakter arasında olmalıdır";
+$lang['recipient_empty'] = "Alıcı boş olamaz!";
+$lang['invalid_recipient'] = "Geçersiz alıcı";
+$lang['sent'] = "Mesaj gönderildi! Geri dönüyorsunuz";
+$lang['the_inbox'] = "gelen kutusuna";
+$lang['error'] = "Bir şeyler yanlış gitti, lütfen tekrar deneyin!";
+$lang['title_cant_be_empty'] = "Başlık boş olamaz!";
+$lang['pm'] = "Özel mesajlar";
+$lang['newer'] = "Daha yeni mesajlar";
+$lang['older'] = "Daha eski mesajlar";
+$lang['deleting'] = "Siliniyor";
+$lang['inbox'] = "Gelen kutusu";
+$lang['sent_messages'] = "Gönderilenler";
+$lang['no_messages'] = "Hiç mesajınız yok";
+$lang['compose_message'] = "Bir mesaj yaz";
+$lang['empty_inbox'] = "Boş gelen kutusu";
+$lang['sender'] = "Gönderen";
+$lang['message_title'] = "Mesaj başlığı";
+$lang['date'] = "Tarih";
+$lang['view_profile'] = "Profili görüntüle";
+$lang['read_message'] = "Mesajı oku";
+$lang['receiver'] = "Alıcı";
+$lang['conversation_between'] = "Sizin aranızdaki konuşma";
+$lang['you'] = "Siz";
+$lang['not_found'] = "Mesaj bulunamadı";
+$lang['enter_recipient'] = "Lütfen bir alıcı girin";
+$lang['enter_message'] = "Lütfen bir mesaj girin";

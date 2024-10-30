@@ -1,0 +1,56 @@
+<?php
+
+$lang['invalid'] = "Geçersiz değerler";
+$lang['message_too_long'] = "Mesaj çok uzun. 8000 karakterden az olmalıdır.";
+$lang['kick'] = "Bir oyuncuyu at";
+$lang['ban'] = "Bir hesabı yasakla";
+$lang['ticket'] = "Bilet";
+$lang['time'] = "Zaman";
+$lang['message'] = "Mesaj";
+$lang['by'] = "tarafından";
+$lang['view'] = "Görüntüle";
+$lang['hide'] = "Gizle";
+$lang['close'] = "Bileti kapat";
+$lang['answer'] = "Cevap";
+$lang['unstuck'] = "Sıkışmadan kurtul";
+$lang['send_item'] = "Eşya gönder";
+$lang['no_tickets'] = "Hiç bilet yok";
+$lang['account_name'] = "Hesap adı";
+$lang['ban_reason'] = "Yasaklama nedeni";
+$lang['account'] = "Hesap";
+$lang['has_been_banned'] = "yasaklandı";
+$lang['character_name'] = "Karakter adı";
+$lang['character_has_been_kicked'] = "Karakter atıldı";
+$lang['close_ticket'] = "Bu bileti kapatmak istediğinizden emin misiniz?";
+$lang['close_short'] = "Kapat";
+$lang['ban_short'] = "Yasakla";
+$lang['kick_short'] = "At";
+$lang['send'] = "Gönder";
+$lang['mail_sent'] = "Mail gönderildi";
+$lang['teleported'] = "Karakter teleport edildi";
+$lang['must_be_offline'] = "Karakter çevrimdışı olmalıdır";
+$lang['item_sent'] = "Eşya gönderildi";
+
+$lang['table_command_rank'] = "Rütbe";
+$lang['table_command'] = "Komut";
+$lang['table_help'] = "Yardım";
+
+$lang['ticket_list'] = "Bilet listesi";
+$lang['ban_list'] = "Yasaklılar listesi";
+$lang['history_list'] = "Geçmiş";
+$lang['banned_account_list'] = "Yasaklı hesaplar listesi";
+$lang['banned_ip_list'] = "Yasaklı IP listesi";
+$lang['gm_panel'] = "GM Paneli";
+$lang['banned_account_list_active'] = "Aktif yasaklı hesaplar";
+$lang['banned_account_list_expired'] = "Süresi dolmuş yasaklı hesaplar";
+$lang['ip'] = "IP";
+$lang['ban_ip'] = "Bir IP'yi yasakla";
+$lang['no_data'] = "Veri yok";
+$lang['day'] = "Gün";
+$lang['gm'] = "GM";
+$lang['action'] = "Eylem";
+$lang['type'] = "Tür";
+$lang['affected'] = "Etkilenen";
+$lang['banned_at'] = "Yasaklama zamanı";
+$lang['unbanned_at'] = "Yasak kaldırma zamanı";
+$lang['banned_by'] = "Yasaklayan";
