@@ -7,40 +7,39 @@
 <h3 align="center">FusionCMS</h3>
 
   <p align="center">
-    <a href="https://github.com/FusionWowCMS/FusionCMS/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/FusionWowCMS/FusionCMS/wiki"><strong>Dokumentation erkunden »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/FusionWowCMS/FusionCMS/issues">Report Bug</a>
+    <a href="https://github.com/FusionWowCMS/FusionCMS/issues">Fehler melden</a>
   </p>
 </p>
 
 [![Downloads](https://img.shields.io/github/downloads/FusionWowCMS/FusionCMS/total)](https://github.com/FusionWowCMS/FusionCMS/releases "Releases") ![Contributors](https://img.shields.io/github/contributors/FusionWowCMS/FusionCMS?color=dark-green) ![Issues](https://img.shields.io/github/issues/FusionWowCMS/FusionCMS) [![Discord](https://img.shields.io/discord/1116706973828775976.svg)](https://discord.gg/tnWTkZ7akZ "Our community hub on Discord") [![CodeFactor](https://www.codefactor.io/repository/github/fusionwowcms/fusioncms/badge/main)](https://www.codefactor.io/repository/github/fusionwowcms/fusioncms/overview/main)
 
-## Table Of additional Installer Languages
-* American
-* German
-* Greek
-* Simplified Chinese
-* Spanish
-* Swedish
-* Turkish
+## Zusätzliche Sprachoptionen
+* Amerikanisch
+* Deutsch
+* Griechisch
+* Vereinfachtes Chinesisch
+* Spanisch
+* Schwedisch
+* Türkisch
 
-## Table Of Contents
+## Inhaltsverzeichnis
 
-* [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Security Tips](#security-tips)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
+* [Über das Projekt](#about-the-project)
+* [Erste Schritte](#getting-started)
+    * [Voraussetzungen](#prerequisites)
+    * [Sicherheitstipps](#security-tips)
+* [Mitwirken](#contributing)
+* [Lizenz](#license)
+* [Autoren](#authors)
 
-## About The Project
+## Über das Projekt
 
-FusionCMS is a free, open-source content management system. Server owners all around the world rely upon FusionCMS for
-its ease of use and development, safe and secure codebase and dedication to simplicity.
+FusionCMS ist ein kostenloses, Open-Source-Inhaltsverwaltungssystem. Serverbesitzer auf der ganzen Welt verlassen sich auf FusionCMS wegen seiner Benutzerfreundlichkeit und Entwicklungsfreundlichkeit, seines sicheren und geschützten Codes sowie seiner Hingabe an Einfachheit.
 
-### Supported emulators
+### Unterstützte Emulatoren
 
 | Emulator                                 | Status |
 |------------------------------------------|:--------:|
@@ -57,7 +56,7 @@ its ease of use and development, safe and secure codebase and dedication to simp
 | Mangos one - two - three                 | ✅ |
 | OregonCore                               | ✅ |
 
-### Supported expansions
+### Unterstützte Erweiterungen
 
 | Emulator                             | Status |
 |--------------------------------------|:--------:|
@@ -74,61 +73,56 @@ its ease of use and development, safe and secure codebase and dedication to simp
 | Dragonflight                         | ✅ |
 | The War Within                       | ✅ |
 
-## Getting Started
+## Erste Schritte
 
 ### Download
 
-[Latest release](https://github.com/FusionWowCMS/FusionCMS/releases/latest)
+[Neueste Version](https://github.com/FusionWowCMS/FusionCMS/releases/latest)
 
 ### Installation
-Read the [Installation Guide](https://github.com/FusionWowCMS/FusionCMS/wiki/Installation-Guide).
+Lies den [Installationsleitfaden](https://github.com/FusionWowCMS/FusionCMS/wiki/Installation-Guide).
 
-### Prerequisites
+### Voraussetzungen
 
-| Requirements                           | Description                                                                                |
-|----------------------------------------|--------------------------------------------------------------------------------------------|
-| PHP 8.3.0 or above                     | (Extensions: mysqli, curl, openssl, soap, mbstring, json, zip, gd, intl and gmp)           |
-| Apache / Nginx                         | (Modules: mod_rewrite, mod_headers, mod_expires, mod_deflate, mod_filter)                  |
-| Pre installed World of Warcraft Server | (with the databases of: Auth, Characters and World)                                        |
-| MySQL / Mariadb Server                 | >= 5.6 / 10.3                                                                              |
+| Anforderungen                             | Beschreibung                                                                               |
+|-------------------------------------------|--------------------------------------------------------------------------------------------|
+| PHP 8.3.0 oder höher                      | (Extensions: mysqli, curl, openssl, soap, mbstring, json, zip, gd, intl and gmp)           |
+| Apache / Nginx                            | (Modules: mod_rewrite, mod_headers, mod_expires, mod_deflate, mod_filter)                  |
+| Vorinstallierter World of Warcraft-Server | (mit den Datenbanken von: Auth, Characters und World)                                      |
+| MySQL / Mariadb Server                    | >= 5.6 / 10.3                                                                              |
 
-### Security Tips
-> [!IMPORTANT]
-> Read the [Security Tips](SECURITY.md).
+### Sicherheitstipps
+> [!WICHTIG]
+> Lies die [Sicherheitstipps](SECURITY.md).
 
-## Contributing
+## Mitwirken
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any
-contributions you make are **greatly appreciated**.
+Beiträge sind das, was die Open-Source-Community zu einem so großartigen Ort macht, um zu lernen, sich inspirieren zu lassen und zu kreieren. Alle Beiträge, die Sie leisten, werden **sehr geschätzt**.
 
-* If you have suggestions for adding or removing projects, feel free
-  to [open an issue](https://github.com/FusionWowCMS/FusionCMS/issues/new) to discuss it, or directly create a pull
-  request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through
-  the [Code Of Conduct](https://github.com/FusionWowCMS/FusionCMS/blob/main/.github/CODE_OF_CONDUCT.md) before posting
-  your first idea as well.
+* Wenn Sie Vorschläge zum Hinzufügen oder Entfernen von Projekten haben, können Sie gerne ein [Issue öffnen](https://github.com/FusionWowCMS/FusionCMS/issues/new), um darüber zu diskutieren, oder direkt eine Pull-Anfrage erstellen, nachdem Sie die README.md-Datei mit den erforderlichen Änderungen bearbeitet haben.
+* Bitte stellen Sie sicher, dass Sie Rechtschreibung und Grammatik überprüfen.
+* Erstellen Sie für jeden Vorschlag eine separate Pull-Anfrage.
+* Bitte lesen Sie auch die [Verhaltensrichtlinien](https://github.com/FusionWowCMS/FusionCMS/blob/main/.github/CODE_OF_CONDUCT.md), bevor Sie Ihre erste Idee posten.
 
-### Creating A Pull Request
+### Erstellen einer Pull-Anfrage
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Forken Sie das Projekt
+2. Erstellen Sie Ihren Feature-Branch (git checkout -b feature/AmazingFeature)
+3. Committen Sie Ihre Änderungen (git commit -m 'Fügen Sie eine großartige Funktion hinzu')
+4. Pushen Sie zum Branch (git push origin feature/AmazingFeature)
+5. Öffnen Sie eine Pull-Anfrage
 
-## License
+## Lizenz
 
-The FusionCMS source is released under the [GNU AGPL v3](https://github.com/FusionWowCMS/FusionCMS/blob/main/LICENSE)
+Der FusionCMS-Quellcode wird unter der [GNU AGPL v3](https://github.com/FusionWowCMS/FusionCMS/blob/main/LICENSE)
 
-## Sponsor this project
-> [!TIP]
-> [Donate with Cryptocurrency](https://paylink.payment4.com/en/Fusion%20CMS/007d3e04-643d-4105-b113-d37ad09e747e)
+## Dieses Projekt unterstützen
+> [!TIPP]
+[Mit Kryptowährung spenden](https://paylink.payment4.com/en/Fusion%20CMS/007d3e04-643d-4105-b113-d37ad09e747e)
 
-## Authors & Contributors
+## Autoren & Mitwirkende
 
-This project exists thanks to:
+Dieses Projekt existiert dank::
 
 - **[Jesper Lindström](https://github.com/jesperlindstrom)** (FusionCMS)
 - **[Xavier Geernick](https://github.com/XavierGeerinck)**
