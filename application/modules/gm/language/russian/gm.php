@@ -1,0 +1,56 @@
+<?php
+
+$lang['invalid'] = "Неверные значения";
+$lang['message_too_long'] = "Сообщение слишком длинное. Должно быть менее 8000 символов.";
+$lang['kick'] = "Кикнуть игрока";
+$lang['ban'] = "Забанить аккаунт";
+$lang['ticket'] = "Тикет";
+$lang['time'] = "Время";
+$lang['message'] = "Сообщение";
+$lang['by'] = "от";
+$lang['view'] = "Просмотреть";
+$lang['hide'] = "Скрыть";
+$lang['close'] = "Закрыть тикет";
+$lang['answer'] = "Ответ";
+$lang['unstuck'] = "Освободить";
+$lang['send_item'] = "Отправить предмет";
+$lang['no_tickets'] = "Нет тикетов";
+$lang['account_name'] = "Имя аккаунта";
+$lang['ban_reason'] = "Причина бана";
+$lang['account'] = "Аккаунт";
+$lang['has_been_banned'] = "был забанен";
+$lang['character_name'] = "Имя персонажа";
+$lang['character_has_been_kicked'] = "Персонаж был кикнут";
+$lang['close_ticket'] = "Вы уверены, что хотите закрыть этот тикет?";
+$lang['close_short'] = "Закрыть";
+$lang['ban_short'] = "Забанить";
+$lang['kick_short'] = "Кикнуть";
+$lang['send'] = "Отправить";
+$lang['mail_sent'] = "Письмо отправлено";
+$lang['teleported'] = "Персонаж был телепортирован";
+$lang['must_be_offline'] = "Персонаж должен быть оффлайн";
+$lang['item_sent'] = "Предмет был отправлен";
+
+$lang['table_command_rank'] = "Ранг";
+$lang['table_command'] = "Команда";
+$lang['table_help'] = "Помощь";
+
+$lang['ticket_list'] = "Список тикетов";
+$lang['ban_list'] = "Список банов";
+$lang['history_list'] = "История";
+$lang['banned_account_list'] = "Список забаненных аккаунтов";
+$lang['banned_ip_list'] = "Список забаненных IP";
+$lang['gm_panel'] = "Панель ГМа";
+$lang['banned_account_list_active'] = "Активные забаненные аккаунты";
+$lang['banned_account_list_expired'] = "Истекшие забаненные аккаунты";
+$lang['ip'] = "IP";
+$lang['ban_ip'] = "Забанить IP";
+$lang['no_data'] = "Нет данных";
+$lang['day'] = "День";
+$lang['gm'] = "ГМ";
+$lang['action'] = "Действие";
+$lang['type'] = "Тип";
+$lang['affected'] = "Затронутые";
+$lang['banned_at'] = "Забанен в";
+$lang['unbanned_at'] = "Разбанен в";
+$lang['banned_by'] = "Забанен";
