@@ -1,20 +1,20 @@
 <?php
 
 /**
- * Nota para desenvolvedores de módulos:
- *  Manter um arquivo de idioma específico do módulo como este
- *  nesta pasta externa não é uma boa prática para
- *  portabilidade - não aconselho você a fazer isso para
- *  seus próprios módulos, pois eles não são padrão.
- *  Em vez disso, coloque seus arquivos de idioma em
- *  application/modules/yourModule/language/
- *  Você não precisa alterar nenhum código, o sistema
- *  irá procurar automaticamente nessa pasta também.
+ * Note to module developers:
+ * 	Keeping a module specific language file like this
+ *	in this external folder is not a good practise for
+ *	portability - I do not advice you to do this for
+ *	your own modules since they are non-default.
+ *	Instead, simply put your language files in
+ *	application/modules/yourModule/language/
+ *	You do not need to change any code, the system
+ *	will automatically look in that folder too.
  */
 
-$lang['title'] = "Principais Votantes";
-$lang['desc'] = "Reinicia a Cada Semana!";
-$lang['tip'] = "Ver perfil";
-$lang['accvotes'] = "Votos";
-$lang['nodata'] = "Não há votantes para exibir";
-$lang['berewarded'] = "Vote pelo nosso servidor e ganhe seus pontos!";
+$lang['title'] = "Top Voters";
+$lang['desc'] = "Resets Every Week!";
+$lang['tip'] = "View profile";
+$lang['accvotes'] = "Votes";
+$lang['nodata'] = "There are no voters to display";
+$lang['berewarded'] = "Vote for our server and get your points!";
