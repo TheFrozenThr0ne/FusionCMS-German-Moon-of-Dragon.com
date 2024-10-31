@@ -21,6 +21,7 @@
 * <img src="https://github.com/user-attachments/assets/b1ed3bb4-f4cb-4ff3-8b4b-99b3c02362ea" alt="De"> Deutsch
 * <img src="https://github.com/user-attachments/assets/6a61ca7c-fd94-4f1f-adbf-07117075bfeb" alt="Gr"> Griechisch
 * <img src="https://github.com/user-attachments/assets/f0542992-4129-4d7b-aed7-c23d84e1cde2" alt="Cn"> Vereinfachtes Chinesisch
+* <img src="https://github.com/user-attachments/assets/0326d29d-0f78-4f81-9e1f-8c6b613ef71a" alt="Ru"> Russisch
 * <img src="https://github.com/user-attachments/assets/e3da29b8-c42e-4966-ae60-58a57a0f3ad0" alt="Es"> Spanisch
 * <img src="https://github.com/user-attachments/assets/fb0b8d52-3aa2-4066-a47e-a6d226412a99" alt="Se"> Schwedisch
 * <img src="https://github.com/user-attachments/assets/f270fc9f-62f6-4d59-b136-9a980eee039f" alt="Tr"> Türkisch
